@@ -1,0 +1,44 @@
+body{
+  background-image:url(background.jpg);
+  background-size:1366px;
+  height: 768px;
+}
+.overlay{
+  background-color: rgba(0,0,0, 0.5);
+  width: 1000px;
+  height: 750px;
+  text-align: center;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+ .logo{
+   text-align: center;
+   width: 200px;
+   height: 100px;
+ }
+.title{
+  color: lime;
+}
+.barranavigazione{
+  width:900px; border:10px solid #0000 ;
+  background-color:lime;margin: auto;
+}
+.container3{
+  text-align: left;
+  margin-left: 50px;
+  color: white;
+  size: 200px ;
+}
+
+  .charge{
+    width:350px; border:15px solid #0000;
+    background-color:#FFEC8E;
+  }
+  .charge2{
+    width:650px; border:15px solid #0000;
+    background-color:lime;
+  }
+  .charge3{
+    width:250px; border:15px solid #0000;
+    background-color:red;
+  }
